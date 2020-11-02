@@ -1,1 +1,3 @@
-# el_ensueno_americano_de_Chalino
+# El Ensueño Americano de Chalino
+
+Tells the story of Chalino 
